@@ -9,7 +9,7 @@
  * 3. controlled element: one object holding all the input fields.
  * 
  * 4. Uncontrolled field: useRef to create a reference to the element and access
- *  by using like: nameRef.currrent.value
+ *  by using like: nameRef.current.value
  * 
  * 
  */
